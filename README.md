@@ -12,5 +12,5 @@
 
 
 ## スクリーンショット
-![一覧画面](docs/image1.jpg)
-![投稿画面](docs/image3.jpg)
+![一覧画面](docs/image1.jpg)<--%300x-->
+![投稿画面](docs/image2.jpg)<--%300x-->
